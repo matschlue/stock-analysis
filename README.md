@@ -5,3 +5,4 @@ For this examination stock market data was used to determine the performance of 
 ## Results
 ### Stock market performance in 2017
 ![Alt text](/VBA_Challenge_2017_re.png "Image")
+
