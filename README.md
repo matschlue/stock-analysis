@@ -32,4 +32,6 @@ Just by refactoring the current stock performance marco, savings in the time to 
 ![Alt text](/VBA_Challenge_2017.png "Image")
 ![Alt text](/VBA_Challenge_2018.png "Image")
 
+Before refactoring, the marco had an execution time of around 1.44 seconds for both years. After modifying the code, both years ran in abount 0.2 seconds.
+
 
