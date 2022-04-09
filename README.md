@@ -23,3 +23,13 @@ Nevertheless there are some drawbacks as well:
 - timeline uncertainty, since refactoring can be time consuming
 - higher personnel expenses due to time consumption for recoding
 - possibility of making mistakes in the new code
+
+### Refactoring Stock market performance macro
+
+Just by refactoring the current stock performance marco, savings in the time to excecute the program were achieved. 
+
+#### Original code execution time for 2017 and 2018
+![Alt text](/VBA_Challenge_2017.png "Image")
+![Alt text](/VBA_Challenge_2018.png "Image")
+
+
